@@ -1,0 +1,52 @@
+﻿<Page x:Class="PP.PageAuthorization"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PP"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      FontSize="18"
+      d:DesignHeight="300" d:DesignWidth="500"
+      Title="Авторизация">
+    <Grid Background="Wheat" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="251*"/>
+        </Grid.RowDefinitions>
+        <Border
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            MinWidth="400"
+            MaxWidth="500"
+            Background="LightGreen"
+            CornerRadius="15"
+            Padding="20" Margin="0,23,0,0" Grid.RowSpan="2">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" ShadowDepth="10" Color="Green"></DropShadowEffect>
+            </Border.Effect>
+            <StackPanel>
+                <TextBox x:Name="loginTextBox"
+                         Margin="10"
+                         
+                         Text="testUser"
+                         
+                         materialDesign:HintAssist.Hint="Логин"
+                         FontWeight="Black"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <TextBox x:Name="passwordTextBox"
+                         Margin="10"
+                         
+                         Text="123"
+                         
+                         materialDesign:HintAssist.Hint="Пароль"
+                         FontWeight="Black"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <Button x:Name="btnEnter"
+                        Margin="40 20"
+                        Content="Войти"
+                        Click="btnEnter_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>

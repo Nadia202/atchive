@@ -1,0 +1,72 @@
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\PP.exe.config
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\PP.exe
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\PP.pdb
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.csproj.AssemblyReference.cache
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.csproj.SuggestedBindingRedirects.cache
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\MainWindow.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageAuthorization.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\App.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP_MarkupCompile.cache
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP_MarkupCompile.lref
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\MainWindow.baml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageAuthorization.baml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.g.resources
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.Properties.Resources.resources
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.exe
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.pdb
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageSearch.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageSearch.baml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\MaterialDesignColors.dll
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\App.baml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP.csproj.CopyComplete
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageAddOrganization.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageAddOrganization.baml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PP_Content.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\EntityFramework.dll
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\EntityFramework.xml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageAddDocument.g.cs
+C:\Users\chank\OneDrive\Рабочий стол\pp\PP\PP\obj\Debug\PageAddDocument.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\PP.exe.config
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\PP.exe
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\PP.pdb
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\EntityFramework.dll
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\MaterialDesignColors.dll
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\EntityFramework.xml
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Надежда\Desktop\pp\PP\PP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.csproj.AssemblyReference.cache
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\MainWindow.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageAddDocument.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageAddOrganization.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageAuthorization.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageSearch.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\App.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP_Content.g.cs
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP_MarkupCompile.cache
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP_MarkupCompile.lref
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\App.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\MainWindow.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageAddDocument.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageAddOrganization.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageAuthorization.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PageSearch.baml
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.g.resources
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.Properties.Resources.resources
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.csproj.GenerateResource.cache
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.csproj.CopyComplete
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.exe
+C:\Users\Надежда\Desktop\pp\PP\PP\obj\Debug\PP.pdb
